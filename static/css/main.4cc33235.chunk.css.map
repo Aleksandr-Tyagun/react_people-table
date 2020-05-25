@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,UACF,CAEA,YACE,UAAW,CACX,iBAAkB,CAClB,eACF","file":"main.4cc33235.chunk.css","sourcesContent":["a {\n  color: white;\n}\n\n.sort-arrow {\n  width: 10px;\n  margin-right: 15px;\n  margin-left: 5px;\n}\n"]}
